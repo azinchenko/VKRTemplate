@@ -1,10 +1,10 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 <head>
-<title>Инструкции по работе с шаблоном</title>
 <meta name="" content="">
 </head>
 <body>
+<h1>Инструкции по работе с шаблоном</h1>
 <h2>Подготовка редактора</h2>
 <p>Для начала подготовки оформления дипломной работы требуется скачать и настроить редактор документов LaTeX`а. 
 В качестве редактора рекомендуется использовать <a href="http://texstudio.sourceforge.net/">TeXStudio</a>. 
